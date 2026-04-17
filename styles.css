@@ -38,6 +38,30 @@ p {
 
 /* Compleate challenge down here */
 
-
-
+.box1{
+  display: inline-block;
+  background-color:orange;
+  border:5px solid black;
+}
+.box2{
+  display: inline-block;
+  background-color:purple;
+  border:5px solid black;
+}
+.box3{
+  display: inline-block;
+  background-color:pink;
+  border: 5px solid black;
+}
+.box4{
+  display: inline-block;
+ background-color:black;
+ border: 5px solid black;
+}
+.box-display{
+  display:inline-block;
+  height:100vh;
+  width:23vw;
+  color:white;
+}
 
